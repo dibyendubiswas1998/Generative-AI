@@ -1,3 +1,10 @@
+Own Documentation/*
+Own Documentation/Docs/
+Own Documentation/Generative AI Interview Questions-Answers.pdf
+Own Documentation/Top 50 LLM Interview Questions.pdf
+RAG Developer's Stack.png
+Research Paper/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
